@@ -1,10 +1,11 @@
 {
-	"name": "@u-packs/package-template",
+	"name": "com.github.pkg.npm.u-packs.package-template",
 	"version": "0.1.0",
 	"displayName": "Unity Template Package",
 	"description": "This is an empty Unity package for template usage.",
 	"repository": {
-		"url": "https://github.com/u-packs/package-template"
+		"type": "git",
+		"url": "https://github.com/u-packs/package-template.git"
 	},
 	"author": {
 		"name": "Unity Packages",
