@@ -1,5 +1,5 @@
 {
-	"name": "unity-template-package",
+	"name": "@u-packs/package-template",
 	"version": "0.1.0",
 	"displayName": "Unity Template Package",
 	"description": "This is an empty Unity package for template usage.",
