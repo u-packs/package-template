@@ -1,0 +1,9 @@
+{
+	"name": "unity-template-package",
+	"version": "0.1.0",
+	"description": "This is an empty Unity package for template usage.",
+	"author": {
+		"name": "Unity Packages",
+		"url": "https://github.com/u-packs/u-template"
+	}
+}
